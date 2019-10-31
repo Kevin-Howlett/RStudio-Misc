@@ -1,3 +1,5 @@
+#Program generates a histogram of lynx trappings (from R datasets package)
+#with density lines fitted to the chart
 
 library(datasets)
 
